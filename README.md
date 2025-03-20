@@ -24,7 +24,6 @@ This project involves the **simulation and optimization** of the **Crude Distill
 ## 🛠 **Tools & Technologies**  
 - **Aspen HYSYS** (Process Simulation)  
 - **Aspen EDR** (Heat Exchanger Design)  
-- **Excel/Python** (Data Analysis)  
 
 ## 📊 **Results & Findings**  
 - Identified potential **energy savings** through pinch analysis.  
